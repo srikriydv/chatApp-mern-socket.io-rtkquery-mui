@@ -16,6 +16,19 @@ A realtime chat application built with **Node.js**, **Express**, **Socket.IO**, 
 - **API Communication:** RTK Query
 
 ### Screeenshots
+#### Home Page
+![Screenshot 2024-11-23 at 10 11 49 AM](https://github.com/user-attachments/assets/45bf42dd-c329-4226-a69b-e47d177aa6e1)
+#### Real Time Messaging
+![Screenshot 2024-11-23 at 10 13 14 AM](https://github.com/user-attachments/assets/56320d89-4a75-40b4-a579-7e447b3f65c1)
+![Screenshot 2024-11-23 at 10 13 19 AM](https://github.com/user-attachments/assets/173ea888-2afe-4a7c-a698-d20019e8260f)
+
+
+#### LoginPage
+![Screenshot 2024-11-23 at 10 03 44 AM](https://github.com/user-attachments/assets/4e3bd833-431c-436e-b474-a1aec07a1f36)
+#### Register Page
+![Screenshot 2024-11-23 at 10 03 59 AM](https://github.com/user-attachments/assets/64c390e9-1f62-4af7-b065-efdbee218b03)
+
+
 
 
 ### Prerequisites
